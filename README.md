@@ -41,7 +41,7 @@ This is a real-time sales analytics system built with Laravel, featuring WebSock
 1. Clone the repository
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/if12is/Real-Time-Sales-Analytics-System.git
     cd realtime
     ```
 
